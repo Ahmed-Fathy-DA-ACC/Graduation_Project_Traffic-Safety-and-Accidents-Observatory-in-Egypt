@@ -1,5 +1,5 @@
 
-# Traffic Safety and Accidents Observatory
+# Traffic Safety and Accidents Observatory Analysis
 ## Project Description
 This project focuses on analyzing traffic safety and road accidents in Egypt.  
 The goal is to study accident data, extract insights, and support better decision-making to improve road safety.
