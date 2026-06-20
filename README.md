@@ -27,7 +27,7 @@ The goal is to study accident data, extract insights, and support better decisio
 ### Python
 - Cleaned and processed data using Pandas and NumPy.
 - Conducted exploratory data analysis (EDA) to identify insights.
-- Created visualizations using Matplotlib and Seaborn.
+- Created visualizations using Matplotlib and Streamlit.
 - Automated data processing workflows.
 
 ### Tableau
