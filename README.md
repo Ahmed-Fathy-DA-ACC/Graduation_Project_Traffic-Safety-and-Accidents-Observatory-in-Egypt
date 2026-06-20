@@ -19,10 +19,15 @@ The goal is to study accident data, extract insights, and support better decisio
 - Designed interactive dashboards for reporting insights.
 
 ### SQL
-- Extracted and transformed data using advanced queries.
-- Performed joins, aggregations, filtering, and subqueries.
-- Used window functions for advanced analytical tasks.
-- Built structured datasets for analysis and reporting.
+
+- Designed and built relational database structures to organize and manage traffic accident data efficiently.
+- Created and managed tables with proper relationships to ensure data integrity.
+- Used SQL for data extraction, transformation, and loading (ETL) processes.
+- Performed data cleaning and preprocessing using SQL queries.
+- Applied complex queries for filtering, aggregation, and joining multiple datasets.
+- Utilized GROUP BY and HAVING clauses to analyze trends and patterns.
+- Used subqueries and window functions for advanced analytical insights.
+- Supported data analysis and reporting by building structured and optimized datasets.
 
 ### Python
 - Cleaned and processed data using Pandas and NumPy.
