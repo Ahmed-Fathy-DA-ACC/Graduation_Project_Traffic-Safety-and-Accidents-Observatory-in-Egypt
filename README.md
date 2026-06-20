@@ -1,6 +1,6 @@
-# Graduation Project  
-## Traffic Safety and Accidents Observatory in Egypt
 
+# Traffic Safety and Accidents Observatory
+## Project Description
 This project focuses on analyzing traffic safety and road accidents in Egypt.  
 The goal is to study accident data, extract insights, and support better decision-making to improve road safety.
 
@@ -20,3 +20,5 @@ The goal is to study accident data, extract insights, and support better decisio
 4. **Abdullah Hassan Fathy**
 5. **Jomana Abdelaziz Amin**
 6. **Jana Ahmed Ramzy**
+
+
