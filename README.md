@@ -13,9 +13,7 @@ The goal is to study accident data, extract insights, and support better decisio
 - Supported decision-making through statistical insights.
 
 ### Microsoft Excel
-- Cleaned and prepared raw datasets for analysis.
 - Handled missing values, duplicates, and inconsistencies.
-- Used advanced formulas, Pivot Tables, and charts for analysis.
 - Applied Power Query for data extraction and transformation (ETL).
 - Built data models using Power Pivot and defined relationships.
 - Designed interactive dashboards for reporting insights.
