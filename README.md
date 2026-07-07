@@ -59,7 +59,6 @@ The goal is to study accident data, extract insights, and support better decisio
 2. **Ahmed Fathy Kamal**
 3. **Basmala Ahmed Fouad**
 4. **Abdullah Hassan Fathy**
-5. **Jomana Abdelaziz Amin**
-6. **Jana Ahmed Ramzy**
+5. **Jana Ahmed Ramzy**
 
 
